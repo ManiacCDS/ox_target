@@ -1,4 +1,8 @@
-# ox_target_redesign
+## 👀 Preview
+
+https://github.com/user-attachments/assets/8a3c6789-a29c-47c1-913e-9249ba36434f
+
+# ox_target
 
 ![](https://img.shields.io/github/downloads/overextended/ox_target/total?logo=github)
 ![](https://img.shields.io/github/downloads/overextended/ox_target/latest/total?logo=github)
